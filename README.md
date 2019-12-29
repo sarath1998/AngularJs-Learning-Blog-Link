@@ -8,7 +8,8 @@ Part-2  is about testing the application.
 
 https://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app
 
+Take the Angular-seed project for basic angular application.
 
-Also, plz have a look into this video
+Also, plz have a look into this video.
 
 https://www.youtube.com/watch?time_continue=1&v=q-7mhcHXSfM&feature=emb_logo
